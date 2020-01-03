@@ -1,0 +1,13 @@
+{
+    "elements": {
+        "marquee": {
+            "attributes": {
+                "onmouseout": {},
+                "behavior": {},
+                "onmouseover": {},
+                "direction": {}
+            }
+        }
+    },
+    "attributes": {}
+}

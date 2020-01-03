@@ -1,0 +1,14 @@
+SMAP
+MyProfile_jsp.java
+JSP
+*S JSP
+*F
++ 0 MyProfile.jsp
+MyProfile.jsp
++ 1 Header.jsp
+MasterPage/Header.jsp
+*L
+5:49
+5#1,209:50
+6#0,28:258
+*E

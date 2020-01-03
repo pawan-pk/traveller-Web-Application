@@ -1,0 +1,18 @@
+SMAP
+gallery_jsp.java
+JSP
+*S JSP
+*F
++ 0 gallery.jsp
+gallery.jsp
++ 1 Header.jsp
+MasterPage/Header.jsp
++ 2 footer.jsp
+MasterPage/footer.jsp
+*L
+5:50
+5#1,207:51
+6#0,41:257
+5#2,80:297
+46#0:376
+*E

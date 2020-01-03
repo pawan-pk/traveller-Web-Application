@@ -1,0 +1,18 @@
+SMAP
+EventsManagement_jsp.java
+JSP
+*S JSP
+*F
++ 0 EventsManagement.jsp
+EventsManagement.jsp
++ 1 Header.jsp
+MasterPage/Header.jsp
++ 2 footer.jsp
+MasterPage/footer.jsp
+*L
+5:50
+5#1,209:51
+6#0,65:259
+5#2,80:323
+70#0:402
+*E

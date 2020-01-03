@@ -1,0 +1,195 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jul 25, 2018, 11:21:00 AM
+    Author     : Pawan acer
+*/
+            body
+            {
+                background-color: #cadbea;
+            }
+            .top
+            {
+                background-image: url('images/header.png');
+            }
+            .topl
+            {
+                min-height: 70px;
+            }
+            .topr
+            {
+                min-height: 70px;
+                font-family: cursive;
+                text-shadow:3px 2px 3px black;
+                font-size:40px;
+                color: blueviolet;
+                margin-top: 15px;
+            }
+               .menu
+            {
+                background-image: url(images/nav-primary.png);
+                font-size:16px;
+                margin: 0px;
+            }
+            .search
+            {
+                color: buttontext;
+                background-color: lightgrey;
+                box-shadow: 1px 2px 3px grey inset;
+            }
+            .head
+            {
+                font-family: cursive;
+            }
+            .main
+            {
+                min-height: 355px;
+                background-image: url('images/banner1.jpg');
+                background-repeat: no-repeat;
+                background-attachment: fixed;
+                background-position: top,center;
+                font-size: 18px;
+                color: white;
+                padding-top: 20px;
+                margin: 0px;
+            }
+            .main input
+            {
+                min-width: 120px;
+                border: 1px solid green;
+            }
+            .transfer
+            {
+                font-size: 12px;
+                border-top: 1px solid green;
+                border-bottom: 1px solid green;
+               background: white;
+               padding: 10px;
+               color: red;
+               margin: 0px -20px 0px -20px;
+               align-content: center;
+            }
+            .right
+            {
+                padding-left: 20px;
+            }
+            .s-left
+            {
+                min-height: 180px;
+                filter:grayscale(70%);
+            }
+            .s-center
+            {
+                min-height: 180px;
+            }
+            .s-right
+            {
+                min-height: 180px;
+                filter:grayscale(70%);
+            }
+            .pfooter
+            {
+                min-height: 70px;
+                background-color: black;
+                color: white;
+                font-size: 14px;
+            }
+            .pfooter h4
+            {
+                color: aqua;
+                font-size: 17px;
+                font-family: times new romen;
+            }
+            .pfooter ul
+            {
+                list-style-type:none;
+            }
+            .footer
+            {
+                min-height: 40px;
+                background: black;
+                color: white;
+                text-align: center;
+                font-size: 14px;
+            }
+            .image
+            {
+                margin-top: 20px;
+            }
+            .content
+            {
+                min-height: 430px;
+                color:darkblue;
+                padding: 30px;
+                font-size: 20px;
+                font-family: times new romen;
+            }
+            .content h2
+            {
+                color:#000033;
+                 margin-top: 10px;
+                 font-family: Algerian;
+            }
+            .img img
+            {
+                margin-top: 20px;
+            }
+             #div1 
+             {
+                transform: translateY(33%);
+            }
+            .time
+            {
+                margin: 15px 0px 0px -15px;
+                color:  whitesmoke;
+                padding: 10px;
+            }
+            #time
+            {
+                 font-family: cursiv;
+                 font-size: 30px;
+                 text-align: center;
+                 text-shadow: 0px 0px 10px blueviolet;
+            }
+            #date 
+            {
+                font-family: 'Eczar', serif;
+                font-size: 20px;
+                text-align: center;
+                text-shadow: 0px 0px 10px blue;
+            }
+            .notification
+            {
+                min-height: 300px;
+                font-size: 20px;
+                color:#cc0000;
+            }
+            .notification h2
+            {
+                color: #990000;
+                font-weight: bold;
+                text-align: center;
+                font-family: times new romen;
+            }
+            #pToggle
+            {
+	cursor:pointer;
+            }
+            #SignUp
+            {
+                display: none;
+            }
+            .searchicon
+            {
+                color: grey;
+                font-size: 22px;
+            }
+            .searchicon:hover
+            {
+                color: darkgreen;
+                cursor: pointer;
+                text-shadow: 1px 3px 8px grey;
+            }
